@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Seven Notes",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-04-01T07:17:16.227670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "These Seven Notes",
+      "artist": "The Russian Futurists",
+      "has_synced": false,
+      "path": "select/01_These_Seven_Notes_The_Russian_Futurists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seven Notes",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_Seven_Notes_メガテラ・ゼロ.txt"
+    }
+  ]
+}
